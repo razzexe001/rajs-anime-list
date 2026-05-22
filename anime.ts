@@ -77,6 +77,7 @@ export const animeList: Anime[] = [
   { title: "The Shiunji Family Children",                                                  type: "Series" },
   { title: "The Tunnel to Summer, the Exit of Goodbyes",                                  type: "Movie"  },
   { title: "The Water Magician",                                                           type: "Series" },
+  { title: "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat", type: "Series"  },
   { title: "The Wrong Way to Use Healing Magic",                                           type: "Series" },
   { title: "Tomo-chan Is a Girl!",                                                         type: "Series" },
   { title: "Tower of God",                                                                 type: "Series" },
